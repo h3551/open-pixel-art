@@ -11,6 +11,17 @@
   "commitConvention": "angular",
   "contributors": [
     {
+      "login": "h3551",
+      "name": "Daniel Heslop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/562396?s=100&v=4",
+      "profile": "https://heslop.de/sign",
+      "contributions": [
+        "code",
+        "ideas",
+        "translations"
+      ]
+    },
+    {
       "login": "dkundel",
       "name": "Dominik Kundel",
       "avatar_url": "https://avatars3.githubusercontent.com/u/1505101?v=4",
